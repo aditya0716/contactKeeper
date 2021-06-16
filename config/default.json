@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://admin:itsallaboutu@cluster0.tmi1a.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "mongoURI": "mongodb://admin:itsallaboutu@cluster0-shard-00-00.tmi1a.mongodb.net:27017,cluster0-shard-00-01.tmi1a.mongodb.net:27017,cluster0-shard-00-02.tmi1a.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-gay6x0-shard-0&authSource=admin&retryWrites=true&w=majority",
   "jwtSecret": "secret"
 }
